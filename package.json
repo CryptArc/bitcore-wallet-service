@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-wallet-service",
-  "description": "A service for Mutisig HD Platinum Wallets",
+  "name": "platinumcore-wallet-service",
+  "description": "A service for Mutisig HD Platinum PTX Wallets",
   "author": "BitPay Inc, PTcrypto",
   "version": "0.2.0",
   "keywords": [
@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "bitcore": "0.13.0",
-    "bitcore-wallet-utils": "0.2.0",
+    "platinumcore": "0.13.0",
+    "platinumcore-wallet-utils": "0.2.0",
     "body-parser": "^1.11.0",
     "coveralls": "^2.11.2",
     "email-validator": "^1.0.1",
