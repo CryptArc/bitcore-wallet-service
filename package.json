@@ -1,21 +1,23 @@
 {
   "name": "bitcore-wallet-service",
-  "description": "A service for Mutisig HD Bitcoin Wallets",
-  "author": "BitPay Inc",
+  "description": "A service for Mutisig HD Platinum Wallets",
+  "author": "BitPay Inc, PTcrypto",
   "version": "0.2.0",
   "keywords": [
     "bitcoin",
+    "platinumcoin",
+    "platinumcrypto",
     "copay",
     "multisig",
     "wallet",
     "bitcore"
   ],
   "repository": {
-    "url": "git@github.com:bitpay/bitcore-wallet-service.git",
+    "url": "git@github.com:CryptArc/platinumcore-wallet-service.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-wallet-service/issues"
+    "url": "https://github.com/CryptArc/platinumcore-wallet-service/issues"
   },
   "dependencies": {
     "async": "^0.9.0",
