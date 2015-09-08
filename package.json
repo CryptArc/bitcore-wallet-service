@@ -4,6 +4,7 @@
   "author": "BitPay Inc",
   "version": "0.2.0",
   "keywords": [
+    "platinumcoin",
     "bitcoin",
     "copay",
     "multisig",
@@ -11,11 +12,11 @@
     "bitcore"
   ],
   "repository": {
-    "url": "git@github.com:bitpay/bitcore-wallet-service.git",
+    "url": "git@github.com:CryptArc/bitcore-wallet-service.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-wallet-service/issues"
+    "url": "https://github.com/CryptArc/bitcore-wallet-service/issues"
   },
   "dependencies": {
     "async": "^0.9.0",
